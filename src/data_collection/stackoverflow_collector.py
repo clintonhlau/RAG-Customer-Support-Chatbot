@@ -73,7 +73,7 @@ class StackOverflowCollector:
             tagged=tagged,
             min_score=min_score,
             require_accepted=require_accepted,
-            min_aswers=min_answers,
+            min_answers=min_answers,
             page_size=page_size,
             max_pages=max_pages,
         )
